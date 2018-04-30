@@ -2,7 +2,7 @@
 
 > Example of dynamic components in vuejs.Testing brightness effect and css animations.
 
-![imagen card vuejs](https://media.giphy.com/media/8PBBYM2eLGMryEZHZS/giphy.gif)
+![Imagen Card](https://media.giphy.com/media/8PBBYM2eLGMryEZHZS/giphy.gif)
 
 ## Build Setup
 
